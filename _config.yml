@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Chandler Lutz"
   avatar           : "chandler_picture.jpg"
-  bio              : "Financial Economist <br /><br />U.S. SEC"
-  location         : "St. Louis, MO"
+  bio              : "Financial Economist<br />U.S. SEC"
+  location         : 
   employer         :
   pubmed           :
   orcid            : 
