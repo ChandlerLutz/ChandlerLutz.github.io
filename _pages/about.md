@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Chandler Lutz"
+excerpt: "Chandler Lutz"
 author_profile: true
 redirect_from: 
   - /about/
