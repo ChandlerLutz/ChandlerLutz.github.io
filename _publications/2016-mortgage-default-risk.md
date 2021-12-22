@@ -6,6 +6,6 @@ date: 2016-11-01
 venue: 'Journal of Urban Economics'
 paperurl: '/files/Mortgage Default Risk New Evidence from Internet Search Queries.pdf'
 link: 'https://doi.org/10.1016/j.jue.2016.08.004'
-citation: '<b>Journal of Urban Economics</b>. 2016. <a>https://doi.org/10.1016/j.jue.2016.08.004</a>'
+citation: '<b>Journal of Urban Economics</b>. 2016. https://doi.org/10.1016/j.jue.2016.08.004'
 ---
 * Key Highlight: We use Google search query data to develop a broad-based and real-time index of mortgage default risk. 
