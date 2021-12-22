@@ -2,7 +2,7 @@
 title: "The Asymmetric Effects of Investor Sentiment"
 collection: publications
 permalink: /publication/2016-the-asymmetric-effects-of-investor-sentiment
-date: 2016-01-01
+date: 2016-02-01
 venue: 'Macroeconomic Dynamics'
 paperurl: '/files/The Asymmetric Effects of Investor Sentiment.pdf'
 link: 'https://doi.org/10.1017/S1365100514000996'
