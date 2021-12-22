@@ -10,4 +10,4 @@ code: 'https://github.com/ChandlerLutz/CFPLCode'
 github: 'https://github.com/ChandlerLutz/CFPLCode'
 citation: '<b>Journal of Labor Economics</b>: https://doi.org/10.1086/703579'
 ---
-* Key Highlight: The California Foreclosure Prevention Laws, policies that increased the time and pecuniary costs of foreclosure, prevented 250,000 California foreclosures (a 20% reduction) and created $300 billion in housing wealth.
+* Key Highlight: This paper examines US and Canadian local labor markets. Wage levels and inequality rise over time with city population in both countries, albeit less in Canada. Local labor demand shifts raise nominal wages similarly. Chinese import competition had a weaker negative impact on manufacturing employment in Canada. These results are consistent with Canada's more redistributive transfer system and larger, more educated immigrant workforce.
