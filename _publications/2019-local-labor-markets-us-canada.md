@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-local-labor-markets-in-canada-and-us
 date: 2019-07-01
 venue: 'Journal of Labor Economics'
-paperurl: '/files/pdf/research/Local Labor Markets in Canada and the United States.pdf'
+paperurl: '/files/Local Labor Markets in Canada and the United States.pdf'
 link: 'https://doi.org/10.1086/703579'
 code: 'https://github.com/ChandlerLutz/LocalLaborMarketsInCanadaAndTheUnitedStates'
 github: 'https://github.com/ChandlerLutz/LocalLaborMarketsInCanadaAndTheUnitedStates'
