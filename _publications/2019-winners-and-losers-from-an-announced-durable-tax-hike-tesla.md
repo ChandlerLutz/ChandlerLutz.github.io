@@ -1,5 +1,5 @@
 ---
-title: "Winners and losers from an announced durable tax hike: Tesla in Denmark"
+title: "Winners and Losers From an Announced Durable Tax Hike: Tesla in Denmark"
 collection: publications
 permalink: /publication/2019-winners-and-losers-of-durable-tax-hike-tesla-in-denmark
 date: 2019-02-01
