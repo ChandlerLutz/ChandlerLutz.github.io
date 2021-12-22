@@ -1,7 +1,7 @@
 ---
 title: "A Crisis of Missed Opportunities? Foreclosure Costs and Mortgage Modification During the Great Recession"
 collection: publications
-permalink: /publication/2021-foreclosure-costs-and-mortgage-modification-great-recession
+permalink: /publication/2021-crisis-of-missed-opportunities-foreclosure-costs-and-mortgage-modification-great-recession
 date: 2021-02-01
 venue: 'Review of Financial Studies'
 paperurl: '/files/Foreclosure Costs and Mortgage Modification During the Great Recession.pdf'
