@@ -2,7 +2,7 @@
 title: "The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers"
 collection: publications
 permalink: /publication/interest-rate-declines-and-distressed-borrowers
-date: 2022-01-01
+date: 2022-03-01
 venue: 'Working Paper'
 paperurl: '/files/The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3869199'
