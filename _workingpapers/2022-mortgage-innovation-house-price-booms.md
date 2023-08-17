@@ -2,7 +2,7 @@
 title: "Mortgage Innovation and House Price Booms"
 collection: publications
 permalink: /publication/mortgage-innovation-and-house-price-booms
-date: 2022-01-01
+date: 2023-08-15
 venue: 'Working Paper'
 paperurl: '/files/Mortgage Innovation and House Price Booms.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2699824'
