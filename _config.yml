@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chandler Lutz"
 title_separator          : "-"
 name                     : &name "Chandler Lutz"
-description              : &description "Financial Economist"
+description              : &description "Associate Professor of Finance"
 url                      : https://chandlerlutz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChandlerLutz/ChandlerLutz.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Chandler Lutz"
   avatar           : "chandler_picture.jpg"
-  bio              : "Financial Economist<br />U.S. SEC"
+  bio              : "Associate Professor of Finance<br />UNC Charlotte"
   location         : 
   employer         :
   pubmed           :
