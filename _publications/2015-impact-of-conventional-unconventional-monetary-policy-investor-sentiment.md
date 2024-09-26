@@ -8,6 +8,7 @@ paperurl: '/files/The Impact of Conventional and Unconventional Monetary Policy 
 link: 'https://doi.org/10.1016/j.jbankfin.2015.08.019'
 code: 'https://github.com/ChandlerLutz/106MacroTimeSeries1970_2013'
 github: 'https://github.com/ChandlerLutz/106MacroTimeSeries1970_2013'
+ssrn: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2363938'
 citation: '<b>Journal of Banking & Finance</b>. 2015. <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22The+Impact+of+Conventional+and+Unconventional+Monetary+Policy+on+Investor+Sentiment%22&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AzO-piuzuh68J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den">Citation</a>'
 ---
 
