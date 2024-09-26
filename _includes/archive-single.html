@@ -73,6 +73,9 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
+      {% if post.ssrn %}
+        <a href="{{ post.ssrn }}"><i class="fab fa-fw fa-ssrn zoom" aria-hidden="true"></i></a>
+      {% endif %}
       </p>
     {% elsif post.collection == 'workingpapers' %}
       {% if post.abstract %}
