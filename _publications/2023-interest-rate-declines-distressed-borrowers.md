@@ -5,7 +5,7 @@ permalink: /publication/interest-rate-declines-and-distressed-borrowers
 date: 2023-08-16
 venue: Review of Financial Studies
 paperurl: '/files/The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers.pdf'
-link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3869199'
+link: 'https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhae051/7781688'
 code: 'https://github.com/ChandlerLutz/interest-rate-declines-distressed-borrowers'
 ssrn: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3869199'
 citation: '<b>Review of Financial Studies</b>. 2023. <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22The+Impact+of+Crisis-Period+Interest+Rate+Declines+on+Distressed+Borrowers%22&btnG=#d=gs_cit&t=1692414076489&u=%2Fscholar%3Fq%3Dinfo%3AGTm3Cnd9dIMJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den">Citation</a>'
