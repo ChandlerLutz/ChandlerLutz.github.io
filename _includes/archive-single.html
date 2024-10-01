@@ -76,6 +76,9 @@
       {% if post.ssrn %}
         <a href="{{ post.ssrn }}">SSRN</a>
       {% endif %}
+      {% if post.ssrn %}
+        <a href="{{ post.ai_pod }}">AI Podcast Summary</a>
+      {% endif %}
       </p>
     {% elsif post.collection == 'workingpapers' %}
       {% if post.abstract %}
@@ -91,7 +94,7 @@
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
-        {{ post.citation }}
+        {{ post.citation }}.
       {% endif %}
       <br>
       {% if post.link %}
