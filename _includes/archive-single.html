@@ -72,6 +72,9 @@
       {% if post.code %}
       <a href="{{ post.code }}">Code</a>.
       {% endif %}
+      {% if post.g_scholar %}
+      <a href="{{ post.g_scholar }}">G-Scholar</a>.
+      {% endif %}
     </p>
     {% elsif post.collection == 'workingpapers' %}
       {% if post.abstract %}
