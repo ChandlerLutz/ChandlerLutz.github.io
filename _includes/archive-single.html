@@ -75,6 +75,9 @@
       {% if post.g_scholar %}
       {{ post.g_scholar }}
       {% endif %}
+      {% if post.ai_pod %}
+      <a href="{{ post.ai_pod }}">AI Podcast</a>.
+      {% endif %}
     </p>
     {% elsif post.collection == 'workingpapers' %}
       {% if post.abstract %}
