@@ -62,28 +62,31 @@
         {{ post.citation }}.
       {% endif %}
       {% if post.ssrn %}
-        <a href="{{ post.ssrn }}">PDF</a>.
+        <a href="{{ post.ssrn }}">Pdf</a>.
       {% endif %}
-      <br>
-      {% if post.link %}
+    </p>
+    <ul>
+      <li>
+	{% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}
+	{% endif %}
+	{% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
+	{% endif %}
+	{% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
+	{% endif %}
+	{% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.ssrn %}
+	{% endif %}
+	{% if post.ssrn %}
         <a href="{{ post.ssrn }}">SSRN</a>
-      {% endif %}
-      {% if post.ssrn %}
+	{% endif %}
+	{% if post.ai_pod %}
         <a href="{{ post.ai_pod }}">AI Podcast Summary</a>
-      {% endif %}
-      </p>
+	{% endif %}
+	</li>
+      </ul>
     {% elsif post.collection == 'workingpapers' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
