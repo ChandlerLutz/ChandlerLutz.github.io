@@ -57,12 +57,20 @@
       
       <!-- citation and icon code -->
     <p>
-      
       {% if post.citation %}
-        {{ post.citation }}.
+      {{ post.citation }}.
+      {% endif %}
+      {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">Pdf</a>.
       {% endif %}
       {% if post.ssrn %}
-        <a href="{{ post.ssrn }}">Pdf</a>.
+      <a href="{{ post.ssrn }}">SSRN</a>.
+      {% endif %}
+      {% if post.doi %}
+      <a href="{{ post.doi }}">DOI</a>.
+      {% endif %}
+      {% if post.code %}
+      <a href="{{ post.code }}">Code</a>.
       {% endif %}
     </p>
     {% elsif post.collection == 'workingpapers' %}
