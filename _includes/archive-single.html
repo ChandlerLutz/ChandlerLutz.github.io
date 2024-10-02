@@ -57,11 +57,12 @@
       
       <!-- citation and icon code -->
     <p>
+      
+      {% if post.citation %}
+        {{ post.citation }}.
+      {% endif %}
       {% if post.ssrn %}
         <a href="{{ post.ssrn }}">PDF</a>.
-      {% endif %}
-      {% if post.citation %}
-        {{ post.citation }}
       {% endif %}
       <br>
       {% if post.link %}
