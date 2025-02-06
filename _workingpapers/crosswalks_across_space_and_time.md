@@ -1,3 +1,4 @@
+---
 title: "Bridging the Geographic Divide: Crosswalks Across Space and Time"
 collection: publications
 permalink: /publication/crosswalks-across-space-and-time
