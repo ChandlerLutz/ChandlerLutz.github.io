@@ -2,7 +2,7 @@
 title: "The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers"
 collection: publications
 permalink: /publication/interest-rate-declines-and-distressed-borrowers
-date: 2023-08-16
+date: 2024-12-15
 venue: Review of Financial Studies
 paperurl: '/files/The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers.pdf'
 doi: 'https://doi.org/10.1093/rfs/hhae051'

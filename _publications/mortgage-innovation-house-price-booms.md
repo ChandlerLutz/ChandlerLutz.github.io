@@ -2,7 +2,7 @@
 title: "Mortgage Innovation and House Price Booms"
 collection: publications
 permalink: /publication/mortgage-innovation-and-house-price-booms
-date: 2023-08-15
+date: 2025-01-15
 venue: 'Journal of Urban Economics'
 paperurl: '/files/Mortgage Innovation and House Price Booms.pdf'
 doi: 'https://doi.org/10.1016/j.jue.2024.103725'
